@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "title": "ONE TIME TICKET",
+    "price": 100
+  }, {
+    "id": 2,
+    "title": "ONE DAY PASS",
+    "price": 500
+  }, {
+    "id": 3,
+    "title": "MONTHLY PASS",
+    "price": 1500
+  }, {
+    "id": 4,
+    "title": "ANNUAL PASS",
+    "price": 900
+  }]
